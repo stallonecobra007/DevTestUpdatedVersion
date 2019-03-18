@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "StatisticsConfigurationString": "server=LAPTOP-41NTPUDF;Database=StatisticsDb;Integrated Security=true;MultipleActiveResultSets=true;"
+  }
+}
